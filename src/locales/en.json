@@ -1,0 +1,5 @@
+// src/assets/locales/en.json
+{
+  "welcome": "Welcome to Lumakara Store",
+  "search_placeholder": "Search products..."
+}

@@ -1,0 +1,5 @@
+// src/assets/locales/jp.json
+{
+  "welcome": "ルマカラストアへようこそ",
+  "search_placeholder": "商品を検索..."
+}
